@@ -1,13 +1,35 @@
-#  🍽️ Meal-delivery-java-application
-
+# 🍽️ Meal Delivery System
 
 <div align="center">
+
+<!-- Logo à ajouter ici -->
+![Logo](assets/logo.png)
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+
+## 📑 Sommaire
+
+- [Introduction](#-introduction)
+- [Objectifs](#-objectifs)
+- [Rôles et Droits d'Accès](#-rôles-et-droits-daccès)
+  - [Super Admin](#-super-admin)
+  - [Admin](#-admin)
+  - [Client](#-client)
+  - [Livreur](#-livreur)
+- [Fonctionnalités Principales](#-fonctionnalités-principales)
+  - [Sécurité et Authentification](#-sécurité-et-authentification)
+  - [Gestion Administrative](#-gestion-administrative)
+  - [Gestion des Repas](#-gestion-des-repas)
+  - [Gestion des Commandes](#-gestion-des-commandes)
+  - [Système de Livraison](#-système-de-livraison)
+- [Stack Technologique](#-stack-technologique)
+- [Guide d'Utilisation](#-guide-dutilisation)
+- [Exemple de Scénario](#-exemple-de-scénario)
+- [Équipe & Contact](#-équipe--contact)
 
 ## 🎯 Introduction
 Meal Delivery est une application Java moderne avec interface graphique (Swing) qui révolutionne la gestion de livraison de repas. Notre système centralise la gestion des utilisateurs, repas, commandes et livraisons dans une interface élégante et intuitive.
