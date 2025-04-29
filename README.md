@@ -1,5 +1,5 @@
-# Meal-delivery-java-application
-# 🍽️ Meal Delivery System
+#  🍽️ Meal-delivery-java-application
+
 
 <div align="center">
 
