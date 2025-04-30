@@ -38,9 +38,13 @@ Meal Delivery est une application Java moderne avec interface graphique (Swing) 
 ## ✨ Objectifs
 
 🔹 Gérer efficacement les utilisateurs (Super Admin, Admin, Client, Livreur)
+
 🔹 Centraliser la gestion des repas et des commandes
+
 🔹 Suivre l'état des livraisons en temps réel
+
 🔹 Générer des factures PDF automatiques
+
 🔹 Offrir une interface graphique intuitive adaptée à chaque rôle
 
 ---
